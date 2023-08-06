@@ -3,7 +3,7 @@ draft: false
 name: "Joe Draper"
 title: "Developer"
 avatar: {
-    src: "src/assets/draper-maui.jpg",
+    src: "src/assets/draper-maui.png",
     alt: "Joe Draper"
 }
 
